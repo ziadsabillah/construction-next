@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "framer-motion": "^4.1.10",
+    "framer-motion": "^4.1.11",
     "gsap": "^3.6.1",
     "next": "10.2.0",
     "next-videos": "^1.4.0",
